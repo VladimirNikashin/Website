@@ -4,7 +4,6 @@ my website
 this is a Readme
 Rockining Forbijuden
 
-
-qwertyuiopkjhgfdsa
+Updating readme
 
 guoduhetosdjod
